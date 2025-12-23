@@ -1,1 +1,0 @@
-"""Git Permissions tests package."""

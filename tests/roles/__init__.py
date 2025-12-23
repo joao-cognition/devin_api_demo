@@ -1,1 +1,0 @@
-"""Roles tests package."""

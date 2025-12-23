@@ -1,1 +1,0 @@
-"""Tags tests package."""
