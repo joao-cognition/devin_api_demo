@@ -1,0 +1,1 @@
+"""IDP Groups tests package."""
